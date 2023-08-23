@@ -1,1 +1,1 @@
-# COMP30780_project
+# second_hand_vehicle_analysis_project
